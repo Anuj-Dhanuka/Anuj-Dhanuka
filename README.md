@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anuj Dhanuka 👋</h1>
 
 <p align="center">
-  <strong>Associate Software Engineer · Frontend Developer · React Native Developer</strong>
+  <strong>Software Engineer · Frontend Developer · React Native Developer</strong>
 </p>
 
 <p align="center">
