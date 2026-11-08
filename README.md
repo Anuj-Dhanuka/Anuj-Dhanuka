@@ -1,10 +1,21 @@
-## Hi, I'm Anuj Dhanuka
+<div align="center">
 
-Frontend and React Native developer. I build responsive web and mobile product interfaces with React, React Native, Next.js and TypeScript.
+# Anuj Dhanuka
+
+**Frontend & React Native Developer** · React, Next.js, TypeScript
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-anujdhanuka.com-7c3aed?style=flat-square)](https://anujdhanuka.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuj--dhanuka-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-dhanuka)
+[![Email](https://img.shields.io/badge/Email-anujd973%40gmail.com-db2777?style=flat-square&logo=gmail&logoColor=white)](mailto:anujd973@gmail.com)
+![Available to join immediately](https://img.shields.io/badge/Available%20to%20join-immediately-16a34a?style=flat-square)
+
+</div>
+
+I build responsive web and mobile product interfaces with React, React Native, Next.js and TypeScript.
 
 Most recently at **ChefKart** (Dec 2025 – Oct 2026), I worked across the customer app, website, payment flows and internal operations dashboard, and was the #1 contributor to both the app and the website. Before that, I delivered **20+ client websites** at PPCROY. ChefKart's code is private, so that work is written up as a [case study](https://anujdhanuka.com/experience/chefkart) on my portfolio.
 
-**Available to join immediately** · Vizianagaram, India · Open to frontend and React Native roles across India
+Based in Vizianagaram, India · Open to frontend and React Native roles across India
 
 ### Featured work
 
@@ -23,8 +34,6 @@ Most recently at **ChefKart** (Dec 2025 – Oct 2026), I worked across the custo
 
 ### Stack
 
-React · React Native · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS · REST APIs · Firebase · WordPress · Shopify · Webflow
+[![React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Firebase, WordPress, Webflow, Figma, Git, Vite](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,firebase,wordpress,webflow,figma,git,vite&perline=12)](https://anujdhanuka.com/skills)
 
-### Contact
-
-[Portfolio](https://anujdhanuka.com) · [LinkedIn](https://linkedin.com/in/anuj-dhanuka) · [Email](mailto:anujd973@gmail.com)
+React Native · Redux Toolkit · REST APIs · Shopify
