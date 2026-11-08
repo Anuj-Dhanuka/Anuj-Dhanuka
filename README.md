@@ -44,3 +44,21 @@ I'm **Anuj Dhanuka**, a **Frontend & React Native Developer**. I build responsiv
       <h4>Portfolio</h4>
       Next.js 16 and TypeScript site with case studies, 90+ mobile PageSpeed.<br><br>
       <a href="https://anujdhanuka.com">Site</a> · <a href="https://github.com/Anuj-Dhanuka/Anuj-dhanuka-portfolio-v3">Code</a>
+    </td>
+  </tr>
+</table>
+
+### Experience
+
+| Company | Role | Period | |
+| --- | --- | --- | --- |
+| **ChefKart** | Associate Software Engineer | Dec 2025 – Oct 2026 | [Case study](https://anujdhanuka.com/experience/chefkart) |
+| **PPCROY TECH SOLUTIONS** | Associate Full Stack Developer | Oct 2024 – Dec 2025 | [Case study](https://anujdhanuka.com/experience/ppcroy) |
+| **3rd Eye Lab** | Associate Software Engineer Intern | Apr – Jun 2024 | [Case study](https://anujdhanuka.com/experience/third-eye-lab) |
+
+### Stack
+
+<p align="center">
+  <a href="https://anujdhanuka.com/skills"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,firebase,wordpress,webflow,figma,git,vite&perline=12" alt="React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Firebase, WordPress, Webflow, Figma, Git, Vite"></a>
+  <br><sub>Also React Native · Redux Toolkit · REST APIs · Shopify</sub>
+</p>
