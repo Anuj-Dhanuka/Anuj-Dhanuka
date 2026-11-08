@@ -1,86 +1,30 @@
-<h1 align="center">Hi, I'm Anuj Dhanuka 👋</h1>
+## Hi, I'm Anuj Dhanuka
 
-<p align="center">
-  <strong>Software Engineer · Frontend Developer · React Native Developer</strong>
-</p>
+Frontend and React Native developer. I build responsive web and mobile product interfaces with React, React Native, Next.js and TypeScript.
 
-<p align="center">
-  I turn product requirements and Figma designs into polished, responsive and production-ready web and mobile experiences.
-</p>
+Most recently at **ChefKart** (Dec 2025 – Oct 2026), I worked across the customer app, website, payment flows and internal operations dashboard, and was the #1 contributor to both the app and the website. Before that, I delivered **20+ client websites** at PPCROY. ChefKart's code is private, so that work is written up as a [case study](https://anujdhanuka.com/experience/chefkart) on my portfolio.
 
-<p align="center">
-  <a href="https://anujdhanuka.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/anuj-dhanuka/">LinkedIn</a> ·
-  <a href="mailto:anujd973@gmail.com">Email</a>
-</p>
+**Available to join immediately** · Vizianagaram, India · Open to frontend and React Native roles across India
 
----
+### Featured work
 
-## About Me
+| Project | What it shows | Links |
+| --- | --- | --- |
+| **QuizWar** | React Native quiz app with OTP sign-in, Firebase and Redux Toolkit | [Case study](https://anujdhanuka.com/projects/quizwar) · [Code](https://github.com/Anuj-Dhanuka/QuizWar) |
+| **ZapCart** | React + TypeScript product listing with filters, search and pagination | [Live](https://zapcart-anuj.netlify.app/) · [Code](https://github.com/Anuj-Dhanuka/zapcart) |
+| **Mopedo** | Responsive React web app for a bike-taxi and delivery service | [Live](https://mopedo.netlify.app/) · [Case study](https://anujdhanuka.com/projects/mopedo) · [Code](https://github.com/Anuj-Dhanuka/mopedo-web-app) |
+| **Portfolio** | Next.js 16 and TypeScript site with case studies, 90+ mobile PageSpeed | [Site](https://anujdhanuka.com) · [Code](https://github.com/Anuj-Dhanuka/Anuj-dhanuka-portfolio-v3) |
 
-I'm an Associate Software Engineer at **ChefKart**, contributing across its customer mobile application, internal team dashboard and website.
+### Experience
 
-My work focuses on building and improving customer-facing experiences using React Native and modern frontend technologies, with strong attention to usability, responsive behaviour and visual consistency.
+- **ChefKart** · Associate Software Engineer · Dec 2025 – Oct 2026 · [case study](https://anujdhanuka.com/experience/chefkart)
+- **PPCROY TECH SOLUTIONS** · Associate Full Stack Developer · Oct 2024 – Dec 2025 · [case study](https://anujdhanuka.com/experience/ppcroy)
+- **3rd Eye Lab** · Associate Software Engineer Intern · Apr – Jun 2024 · [case study](https://anujdhanuka.com/experience/third-eye-lab)
 
-Previously, I delivered **20+ client projects at PPCROY TECH SOLUTIONS**, including business websites, landing pages, e-commerce stores and responsive web applications.
+### Stack
 
-I was recognised in the **Technology & Engineering** category at ChefKart in May 2026.
+React · React Native · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS · REST APIs · Firebase · WordPress · Shopify · Webflow
 
-## What I Work With
+### Contact
 
-**Frontend**
-
-React.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Responsive Development
-
-**Mobile**
-
-React Native · Mobile UI Development · App Navigation · Cross-Device Compatibility
-
-**Platforms**
-
-WordPress · Shopify · Webflow · Firebase
-
-**Development Workflow**
-
-Git · GitHub · API Integration · Analytics Implementation · Debugging · Figma-to-Code
-
-## Selected Work
-
-### Personal Portfolio
-
-My professional portfolio showcasing my experience, product contributions, technical skills and selected projects.
-
-[View Portfolio →](https://anujdhanuka.com)
-
-### Mopedo
-
-A responsive React application for an urban mobility platform offering bike taxi, food delivery and goods-delivery services.
-
-**Built with:** React.js, JavaScript and CSS3
-
-### Levels App
-
-A React Native quiz application featuring category-based questions, dynamic content loading and intuitive mobile interactions.
-
-**Built with:** React Native and JavaScript
-
-## Professional Experience
-
-* **Associate Software Engineer — ChefKart**
-* **Junior Web Developer — PPCROY TECH SOLUTIONS**
-* **Associate Software Engineer Intern — 3rd Eye Lab**
-
-## Recognition
-
-**RNR – Technology & Engineering Recognition**
-ChefKart · May 2026
-
-## Currently Open To
-
-Frontend, React Native, software development and suitable full-stack opportunities where I can contribute strong frontend and product-development expertise.
-
-## Let's Connect
-
-* Portfolio: [anujdhanuka.com](https://anujdhanuka.com)
-* LinkedIn: [Anuj Dhanuka](https://www.linkedin.com/in/anuj-dhanuka/)
-* Email: [anujd973@gmail.com](mailto:anujd973@gmail.com)
+[Portfolio](https://anujdhanuka.com) · [LinkedIn](https://linkedin.com/in/anuj-dhanuka) · [Email](mailto:anujd973@gmail.com)
